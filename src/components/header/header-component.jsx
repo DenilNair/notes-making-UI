@@ -29,8 +29,7 @@ export default function Headercomponent() {
               <ul className="list">
                 <li className="items"> <Link className="linkClass" to="/">Home</Link></li>
 
-                <li className="items"> <Link className="linkClass"  to="/view">View Note</Link></li>
-
+              
                 <li className="items"><Link className="linkClass"  to="/create">Create Note</Link> </li>
                 <li className="items"><Link className="linkClass"  to="/contact-us">Contact Us</Link></li>
               </ul>
